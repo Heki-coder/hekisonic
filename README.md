@@ -1,6 +1,6 @@
 I created an ultrasonic library. I will explain in the following text how you can use it.
 
-To select pins: Hekisonic(int echoPin, int triggerPin);
+To create an instance and select the pins: Hekisonic(int echoPin, int triggerPin);
 
 To set the temperature (default is 20°C): set_temperature(int t);
 
