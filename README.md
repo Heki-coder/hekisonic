@@ -11,5 +11,3 @@ To get the distance in mm: distance_mm();
 To get the distance in µm (micrometers): distance_um();
 
 If you want more features, feel free to write to me in the comments.
-
-I will make an Update, but I don't when it's comming soon.
